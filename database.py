@@ -5,10 +5,23 @@ from datetime import datetime
 import os
 
 DATABASE_URL = os.getenv('DATABASE_URL')
-
-engine = create_engine(DATABASE_URL)
-SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
+
+if DATABASE_URL:
+    try:
+        engine = create_engine(DATABASE_URL)
+        SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+        DATABASE_AVAILABLE = True
+    except Exception as e:
+        print(f"Warning: Database connection failed: {e}")
+        DATABASE_AVAILABLE = False
+        engine = None
+        SessionLocal = None
+else:
+    print("Warning: DATABASE_URL not set, database features disabled")
+    DATABASE_AVAILABLE = False
+    engine = None
+    SessionLocal = None
 
 class QuizSession(Base):
     __tablename__ = "quiz_sessions"
@@ -32,7 +45,8 @@ class PlayerStats(Base):
     average_score = Column(Float, default=0.0)
 
 def init_db():
-    Base.metadata.create_all(bind=engine)
+    if DATABASE_AVAILABLE:
+        Base.metadata.create_all(bind=engine)
 
 def get_db():
     db = SessionLocal()
@@ -42,6 +56,9 @@ def get_db():
         pass
 
 def save_session(nafi_score, moya_score, total_questions, quiz_type="standard"):
+    if not DATABASE_AVAILABLE:
+        return
+    
     db = SessionLocal()
     try:
         if nafi_score > moya_score:
@@ -83,6 +100,9 @@ def update_player_stats(db, player_name, score, is_winner):
     db.commit()
 
 def get_player_stats(player_name):
+    if not DATABASE_AVAILABLE:
+        return None
+    
     db = SessionLocal()
     try:
         stats = db.query(PlayerStats).filter(PlayerStats.player_name == player_name).first()
@@ -91,6 +111,9 @@ def get_player_stats(player_name):
         db.close()
 
 def get_all_sessions():
+    if not DATABASE_AVAILABLE:
+        return []
+    
     db = SessionLocal()
     try:
         sessions = db.query(QuizSession).order_by(QuizSession.session_date.desc()).all()
@@ -99,6 +122,9 @@ def get_all_sessions():
         db.close()
 
 def get_leaderboard():
+    if not DATABASE_AVAILABLE:
+        return []
+    
     db = SessionLocal()
     try:
         stats = db.query(PlayerStats).all()

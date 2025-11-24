@@ -2,205 +2,1489 @@
   "quizzes": [
     {
       "question": "Quelle sourate est surnommée \"la Sourate du Monothéisme Pur\" ?",
-      "options": ["Al-Falaq", "Al-Ikhlas", "An-Nas", "Az-Zalzala"],
-      "answer": "Al-Ikhlas"
+      "options": [
+        "Al-Falaq",
+        "Al-Ikhlas",
+        "An-Nas",
+        "Az-Zalzala"
+      ],
+      "answer": "Al-Ikhlas",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate évoque la naissance miraculeuse de Issa (Jésus) عليه السلام et la modestie de Maryam ?",
-      "options": ["Al-Qasas", "Al-Imran", "Maryam", "Al-Anbiya"],
-      "answer": "Maryam"
+      "options": [
+        "Al-Qasas",
+        "Al-Imran",
+        "Maryam",
+        "Al-Anbiya"
+      ],
+      "answer": "Maryam",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate raconte en détail l'histoire de Yusuf (Joseph) عليه السلام et est connue comme \"la plus belle des histoires\" ?",
-      "options": ["Al-Kahf", "Hud", "Yusuf", "Taha"],
-      "answer": "Yusuf"
+      "options": [
+        "Al-Kahf",
+        "Hud",
+        "Yusuf",
+        "Taha"
+      ],
+      "answer": "Yusuf",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "La sourate Al-Kahf évoque quatre grandes épreuves. Laquelle n'en fait PAS partie ?",
-      "options": ["L'épreuve de la foi", "L'épreuve de la richesse", "L'épreuve de la connaissance", "L'épreuve de la prophétie"],
-      "answer": "L'épreuve de la prophétie"
+      "options": [
+        "L'épreuve de la foi",
+        "L'épreuve de la richesse",
+        "L'épreuve de la connaissance",
+        "L'épreuve de la prophétie"
+      ],
+      "answer": "L'épreuve de la prophétie",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate est considérée comme une protection contre le Dajjāl ?",
-      "options": ["Al-Mulk", "Al-Kahf", "Ar-Rahman", "Al-Waqi'a"],
-      "answer": "Al-Kahf"
+      "options": [
+        "Al-Mulk",
+        "Al-Kahf",
+        "Ar-Rahman",
+        "Al-Waqi'a"
+      ],
+      "answer": "Al-Kahf",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quel est le thème central de la sourate Ar-Rahman ?",
-      "options": ["Les miracles des prophètes", "La miséricorde d'Allah et Ses bienfaits", "Le châtiment des peuples passés", "Les signes de la fin des temps"],
-      "answer": "La miséricorde d'Allah et Ses bienfaits"
+      "options": [
+        "Les miracles des prophètes",
+        "La miséricorde d'Allah et Ses bienfaits",
+        "Le châtiment des peuples passés",
+        "Les signes de la fin des temps"
+      ],
+      "answer": "La miséricorde d'Allah et Ses bienfaits",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate parle de la création de l'être humain à partir d'un caillot ('alaq) ?",
-      "options": ["Al-Qadr", "Al-Alaq", "Al-Tin", "Al-Insan"],
-      "answer": "Al-Alaq"
+      "options": [
+        "Al-Qadr",
+        "Al-Alaq",
+        "Al-Tin",
+        "Al-Insan"
+      ],
+      "answer": "Al-Alaq",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate raconte l'histoire de Moussa عليه السلام face au Pharaon et le miracle du bâton ?",
-      "options": ["Taha", "Maryam", "Ibrahim", "Ash-Shu'ara"],
-      "answer": "Taha"
+      "options": [
+        "Taha",
+        "Maryam",
+        "Ibrahim",
+        "Ash-Shu'ara"
+      ],
+      "answer": "Taha",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate évoque Dhul-Qarnayn et la construction de la barrière contre Gog et Magog ?",
-      "options": ["As-Saffat", "Al-Kahf", "Fussilat", "Al-Ahqaf"],
-      "answer": "Al-Kahf"
+      "options": [
+        "As-Saffat",
+        "Al-Kahf",
+        "Fussilat",
+        "Al-Ahqaf"
+      ],
+      "answer": "Al-Kahf",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate commence par un serment sur le temps (wal-asr) ?",
-      "options": ["Al-Qaria", "Al-Asr", "Al-Fajr", "Al-Duha"],
-      "answer": "Al-Asr"
+      "options": [
+        "Al-Qaria",
+        "Al-Asr",
+        "Al-Fajr",
+        "Al-Duha"
+      ],
+      "answer": "Al-Asr",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate met en avant les qualités de Al-Muttaqin (les pieux) avec 13 caractéristiques ?",
-      "options": ["Al-Baqarah", "Al-Imran", "Al-Nisa", "Al-Anfal"],
-      "answer": "Al-Baqarah"
+      "options": [
+        "Al-Baqarah",
+        "Al-Imran",
+        "Al-Nisa",
+        "Al-Anfal"
+      ],
+      "answer": "Al-Baqarah",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate contient le verset du Trône (Ayat al-Kursi) ?",
-      "options": ["Al-Nisa", "Al-Baqarah", "Al-Imran", "Al-Tawbah"],
-      "answer": "Al-Baqarah"
+      "options": [
+        "Al-Nisa",
+        "Al-Baqarah",
+        "Al-Imran",
+        "Al-Tawbah"
+      ],
+      "answer": "Al-Baqarah",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Dans quelle sourate trouve-t-on l'histoire des Compagnons de l'Éléphant (Aṣḥāb al-Fīl) ?",
-      "options": ["Al-Fil", "Quraish", "Al-Masad", "Al-Tin"],
-      "answer": "Al-Fil"
+      "options": [
+        "Al-Fil",
+        "Quraish",
+        "Al-Masad",
+        "Al-Tin"
+      ],
+      "answer": "Al-Fil",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate critique sévèrement l'accumulation excessive de richesses ?",
-      "options": ["At-Takathur", "Al-Fajr", "Al-Humaza", "Al-Maun"],
-      "answer": "Al-Humaza"
+      "options": [
+        "At-Takathur",
+        "Al-Fajr",
+        "Al-Humaza",
+        "Al-Maun"
+      ],
+      "answer": "Al-Humaza",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate parle de la grandeur du Jour de la Résurrection et commence par \"Al-Qaria, mal-qaria…\" ?",
-      "options": ["Al-Zalzala", "Al-Qaria", "Al-Takwir", "Al-Infitar"],
-      "answer": "Al-Qaria"
+      "options": [
+        "Al-Zalzala",
+        "Al-Qaria",
+        "Al-Takwir",
+        "Al-Infitar"
+      ],
+      "answer": "Al-Qaria",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate décrit le pacte entre Allah et les enfants d'Israël concernant l'adoration exclusive ?",
-      "options": ["Al-Baqarah", "Al-Araf", "Al-Isra", "Al-Maida"],
-      "answer": "Al-Baqarah"
+      "options": [
+        "Al-Baqarah",
+        "Al-Araf",
+        "Al-Isra",
+        "Al-Maida"
+      ],
+      "answer": "Al-Baqarah",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Dans quelle sourate trouve-t-on l'histoire de Luqmân donnant des conseils de sagesse à son fils ?",
-      "options": ["Al-Ahzab", "Luqman", "Al-Ahqaf", "Ash-Shams"],
-      "answer": "Luqman"
+      "options": [
+        "Al-Ahzab",
+        "Luqman",
+        "Al-Ahqaf",
+        "Ash-Shams"
+      ],
+      "answer": "Luqman",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate évoque les signes d'Allah dans la nuit, la pluie et le vent ?",
-      "options": ["Al-Sajda", "Al-Rum", "Al-Hashr", "Al-Tariq"],
-      "answer": "Al-Rum"
+      "options": [
+        "Al-Sajda",
+        "Al-Rum",
+        "Al-Hashr",
+        "Al-Tariq"
+      ],
+      "answer": "Al-Rum",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate décrit en détail le Paradis et l'Enfer et protège contre le châtiment de la tombe ?",
-      "options": ["Ar-Rahman", "Al-Mulk", "Al-Insan", "Al-Ghashiya"],
-      "answer": "Al-Mulk"
+      "options": [
+        "Ar-Rahman",
+        "Al-Mulk",
+        "Al-Insan",
+        "Al-Ghashiya"
+      ],
+      "answer": "Al-Mulk",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate est dédiée entièrement aux relations familiales, à l'héritage et à la justice sociale ?",
-      "options": ["Al-Ahzab", "Al-Nisa", "Al-Talaq", "Al-Mumtahana"],
-      "answer": "Al-Nisa"
+      "options": [
+        "Al-Ahzab",
+        "Al-Nisa",
+        "Al-Talaq",
+        "Al-Mumtahana"
+      ],
+      "answer": "Al-Nisa",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
-
     {
       "question": "Qui est le dernier prophète envoyé par Allah ?",
-      "options": ["Moussa", "Issa", "Muhammad ﷺ", "Ibrahim"],
-      "answer": "Muhammad ﷺ"
+      "options": [
+        "Moussa",
+        "Issa",
+        "Muhammad ﷺ",
+        "Ibrahim"
+      ],
+      "answer": "Muhammad ﷺ",
+      "category": "Général",
+      "difficulty": "Moyen"
     },
     {
       "question": "Combien de piliers de l'islam y a-t-il ?",
-      "options": ["3", "5", "7", "10"],
-      "answer": "5"
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "answer": "5",
+      "category": "Général",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quel mois est considéré comme le mois du Coran ?",
-      "options": ["Muharram", "Ramadan", "Chaabane", "Rajab"],
-      "answer": "Ramadan"
+      "options": [
+        "Muharram",
+        "Ramadan",
+        "Chaabane",
+        "Rajab"
+      ],
+      "answer": "Ramadan",
+      "category": "Général",
+      "difficulty": "Moyen"
     },
     {
       "question": "Combien de rakāt contient la prière du fajr ?",
-      "options": ["4", "3", "2", "5"],
-      "answer": "2"
+      "options": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "answer": "2",
+      "category": "Général",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate est appelée \"la Mère du Livre\" ?",
-      "options": ["Al-Ikhlass", "Al-Falaq", "Al-Baqara", "Al-Fatiha"],
-      "answer": "Al-Fatiha"
+      "options": [
+        "Al-Ikhlass",
+        "Al-Falaq",
+        "Al-Baqara",
+        "Al-Fatiha"
+      ],
+      "answer": "Al-Fatiha",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quel ange est chargé de la révélation ?",
-      "options": ["Mikâ'îl", "Israfil", "Jibrîl", "Malik"],
-      "answer": "Jibrîl"
+      "options": [
+        "Mikâ'îl",
+        "Israfil",
+        "Jibrîl",
+        "Malik"
+      ],
+      "answer": "Jibrîl",
+      "category": "Général",
+      "difficulty": "Moyen"
     },
     {
       "question": "Comment s'appelle la ville où le Prophète ﷺ a émigré ?",
-      "options": ["La Mecque", "Médine", "Jérusalem", "Taïf"],
-      "answer": "Médine"
+      "options": [
+        "La Mecque",
+        "Médine",
+        "Jérusalem",
+        "Taïf"
+      ],
+      "answer": "Médine",
+      "category": "Général",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quel est le premier mot révélé du Coran ?",
-      "options": ["Lis ! (Iqra')", "Prie !", "Adore !", "Médite !"],
-      "answer": "Lis ! (Iqra')"
+      "options": [
+        "Lis ! (Iqra')",
+        "Prie !",
+        "Adore !",
+        "Médite !"
+      ],
+      "answer": "Lis ! (Iqra')",
+      "category": "Général",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quel prophète est célèbre pour sa grande patience ?",
-      "options": ["Soulayman", "Ayoub", "Younous", "Idriss"],
-      "answer": "Ayoub"
+      "options": [
+        "Soulayman",
+        "Ayoub",
+        "Younous",
+        "Idriss"
+      ],
+      "answer": "Ayoub",
+      "category": "Général",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quel pilier n'est obligatoire qu'une fois par an ?",
-      "options": ["Le jeûne", "La zakat", "La prière", "Le hajj"],
-      "answer": "La zakat"
+      "options": [
+        "Le jeûne",
+        "La zakat",
+        "La prière",
+        "Le hajj"
+      ],
+      "answer": "La zakat",
+      "category": "Général",
+      "difficulty": "Moyen"
     },
-
     {
       "question": "Dans quelle sourate se trouve l'histoire des Gens de la Caverne (Ahl al-Kahf) ?",
-      "options": ["Al-Anbiya", "Al-Kahf", "Al-Qasas", "Al-Muminun"],
-      "answer": "Al-Kahf"
+      "options": [
+        "Al-Anbiya",
+        "Al-Kahf",
+        "Al-Qasas",
+        "Al-Muminun"
+      ],
+      "answer": "Al-Kahf",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate commence par \"Tabaraka\" et parle de la création de la mort et de la vie comme test ?",
-      "options": ["Al-Waqi'a", "Al-Mulk", "Al-Qalam", "Al-Haqqa"],
-      "answer": "Al-Mulk"
+      "options": [
+        "Al-Waqi'a",
+        "Al-Mulk",
+        "Al-Qalam",
+        "Al-Haqqa"
+      ],
+      "answer": "Al-Mulk",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quel prophète a été englouti par un grand poisson ?",
-      "options": ["Younous", "Idriss", "Ayyub", "Ibrahim"],
-      "answer": "Younous"
+      "options": [
+        "Younous",
+        "Idriss",
+        "Ayyub",
+        "Ibrahim"
+      ],
+      "answer": "Younous",
+      "category": "Prophètes",
+      "difficulty": "Facile"
     },
     {
       "question": "Quelle sourate contient le verset : \"Levez-vous pour prier la nuit, sauf une petite partie\" ?",
-      "options": ["Al-Muddathir", "Al-Muzzammil", "Al-Qiyama", "Al-Inshirah"],
-      "answer": "Al-Muzzammil"
+      "options": [
+        "Al-Muddathir",
+        "Al-Muzzammil",
+        "Al-Qiyama",
+        "Al-Inshirah"
+      ],
+      "answer": "Al-Muzzammil",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quel compagnon a compilé le Coran sous forme de livre (Mushaf) sous le califat d'Abu Bakr ?",
-      "options": ["Omar ibn al-Khattab", "Ali ibn Abi Talib", "Zayd ibn Thabit", "Uthman ibn Affan"],
-      "answer": "Zayd ibn Thabit"
+      "options": [
+        "Omar ibn al-Khattab",
+        "Ali ibn Abi Talib",
+        "Zayd ibn Thabit",
+        "Uthman ibn Affan"
+      ],
+      "answer": "Zayd ibn Thabit",
+      "category": "Général",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate raconte la reine de Saba et le prophète Soulayman عليه السلام ?",
-      "options": ["An-Naml", "Al-Anbiya", "Sad", "Yasin"],
-      "answer": "An-Naml"
+      "options": [
+        "An-Naml",
+        "Al-Anbiya",
+        "Sad",
+        "Yasin"
+      ],
+      "answer": "An-Naml",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Dans quelle sourate trouve-t-on l'histoire du Prophète Ayyoub عليه السلام et sa patience ?",
-      "options": ["Al-Anbiya", "Maryam", "Al-Qalam", "Al-Fajr"],
-      "answer": "Al-Anbiya"
+      "options": [
+        "Al-Anbiya",
+        "Maryam",
+        "Al-Qalam",
+        "Al-Fajr"
+      ],
+      "answer": "Al-Anbiya",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quelle sourate décrit les signes de la fin des temps tels que l'éclatement des étoiles ?",
-      "options": ["Al-Infitar", "Al-Kahf", "Al-Qaria", "Al-Maun"],
-      "answer": "Al-Infitar"
+      "options": [
+        "Al-Infitar",
+        "Al-Kahf",
+        "Al-Qaria",
+        "Al-Maun"
+      ],
+      "answer": "Al-Infitar",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     },
     {
       "question": "Quel prophète a construit la Kaaba avec son fils ?",
-      "options": ["Moussa", "Ibrahim", "Nouh", "Idriss"],
-      "answer": "Ibrahim"
+      "options": [
+        "Moussa",
+        "Ibrahim",
+        "Nouh",
+        "Idriss"
+      ],
+      "answer": "Ibrahim",
+      "category": "Prophètes",
+      "difficulty": "Facile"
     },
     {
       "question": "Quelle sourate mentionne le miracle du vent envoyé à Sulayman (Salomon) عليه السلام ?",
-      "options": ["Saba", "An-Naml", "Yunus", "Hud"],
-      "answer": "Saba"
+      "options": [
+        "Saba",
+        "An-Naml",
+        "Yunus",
+        "Hud"
+      ],
+      "answer": "Saba",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate commence par « Kaf-Ha-Ya-Ain-Sad » ?",
+      "options": [
+        "Maryam",
+        "Yunus",
+        "Al-Anbiya"
+      ],
+      "answer": "Maryam",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a été jeté dans le feu par son peuple mais Allah l’a rendu frais et paisible ?",
+      "options": [
+        "Ibrahim",
+        "Moussa",
+        "Nouh",
+        "Idriss"
+      ],
+      "answer": "Ibrahim",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quel compagnon est surnommé As-Siddiq ?",
+      "options": [
+        "Omar ibn al-Khattab",
+        "Abu Bakr",
+        "Ali ibn Abi Talib"
+      ],
+      "answer": "Abu Bakr",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate contient l'histoire d'As'hab al-Ukhdoud (les gens du fossé) ?",
+      "options": [
+        "Al-Buruj",
+        "Al-Ghashiya",
+        "Al-Inshiqaq"
+      ],
+      "answer": "Al-Buruj",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a construit l’arche sur ordre d’Allah ?",
+      "options": [
+        "Ibrahim",
+        "Nouh",
+        "Moussa"
+      ],
+      "answer": "Nouh",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Dans quelle sourate trouve-t-on le verset de la lumière (Ayat an-Nur) ?",
+      "options": [
+        "An-Nur",
+        "Al-Ahzab",
+        "Al-Maida",
+        "Ar-Rahman"
+      ],
+      "answer": "An-Nur",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate commence par « Amma yatasā'alūn » ?",
+      "options": [
+        "An-Naba",
+        "An-Nazi'at",
+        "Abasa"
+      ],
+      "answer": "An-Naba",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a été avalé par un grand poisson ?",
+      "options": [
+        "Younous",
+        "Idriss",
+        "Ayoub"
+      ],
+      "answer": "Younous",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate parle du Prophète ﷺ en mentionnant : « Ne t’avons-nous pas élevé ta renommée ? »",
+      "options": [
+        "Ad-Duha",
+        "Ash-Sharh",
+        "Al-Qalam"
+      ],
+      "answer": "Ash-Sharh",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel compagnon était connu pour sa force extraordinaire et a participé aux batailles comme Badr ?",
+      "options": [
+        "Hamza ibn Abd al-Muttalib",
+        "Bilal ibn Rabah",
+        "Zubayr ibn al-Awwam"
+      ],
+      "answer": "Hamza ibn Abd al-Muttalib",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Dans quelle sourate les anges disent à Maryam : « Ô Maryam, Allah t’a choisie… » ?",
+      "options": [
+        "Al-Baqara",
+        "Al-Imran",
+        "Maryam"
+      ],
+      "answer": "Al-Imran",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a parlé dès le berceau ?",
+      "options": [
+        "Issa",
+        "Yahya",
+        "Moussa"
+      ],
+      "answer": "Issa",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate décrit la balance des bonnes et mauvaises actions au Jour du Jugement ?",
+      "options": [
+        "Al-Qaria",
+        "Al-Adiyat",
+        "Al-Fajr"
+      ],
+      "answer": "Al-Qaria",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a été jeté dans un puits par ses frères ?",
+      "options": [
+        "Yusuf",
+        "Ibrahim",
+        "Ismail"
+      ],
+      "answer": "Yusuf",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate commence par un serment sur les chevaux lancés au galop ?",
+      "options": [
+        "Al-Adiyat",
+        "Al-Fil",
+        "Al-Qadr"
+      ],
+      "answer": "Al-Adiyat",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel ange est chargé de souffler dans la trompe le Jour de la Résurrection ?",
+      "options": [
+        "Israfil",
+        "Jibril",
+        "Mikail"
+      ],
+      "answer": "Israfil",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète était doué en interprétation des rêves ?",
+      "options": [
+        "Yusuf",
+        "Sulayman",
+        "Dawud"
+      ],
+      "answer": "Yusuf",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate fut révélée en entier en une nuit ?",
+      "options": [
+        "Al-Fatiha",
+        "Al-An'am",
+        "Yasin"
+      ],
+      "answer": "Al-An'am",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate est recommandée pour la Baraka dans la maison ?",
+      "options": [
+        "Al-Baqara",
+        "Al-Kahf",
+        "Ar-Rahman"
+      ],
+      "answer": "Al-Baqara",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a été privé de sa santé et de ses biens mais n’a jamais cessé de patienter ?",
+      "options": [
+        "Ayyub",
+        "Younous",
+        "Idriss"
+      ],
+      "answer": "Ayyub",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle bataille est la première grande victoire des musulmans ?",
+      "options": [
+        "Badr",
+        "Uhud",
+        "Khandaq"
+      ],
+      "answer": "Badr",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel est le nom de la mère de Maryam ?",
+      "options": [
+        "Hanna",
+        "Fatima",
+        "Amina"
+      ],
+      "answer": "Hanna",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate parle de l’homme ingrat envers son Seigneur dès ses premières lignes ?",
+      "options": [
+        "Al-Alaq",
+        "Al-Adiyat",
+        "Abasa"
+      ],
+      "answer": "Al-Adiyat",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a reçu les Tablettes (Alwah) ?",
+      "options": [
+        "Moussa",
+        "Ibrahim",
+        "Nouh"
+      ],
+      "answer": "Moussa",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate se termine par « adieu » et « protection » ?",
+      "options": [
+        "Al-Falaq",
+        "An-Nas"
+      ],
+      "answer": "An-Nas",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate contient les deux derniers versets méritant une grande récompense lorsqu’ils sont lus la nuit ?",
+      "options": [
+        "Al-Baqara",
+        "Al-Kahf",
+        "Yasin"
+      ],
+      "answer": "Al-Baqara",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Qui est l’homme qui a partagé la grotte avec le Prophète ﷺ lors de la Hijra ?",
+      "options": [
+        "Omar",
+        "Abu Bakr",
+        "Ali"
+      ],
+      "answer": "Abu Bakr",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète est connu pour avoir un royaume où les djinns travaillaient pour lui ?",
+      "options": [
+        "Sulayman",
+        "Dawud",
+        "Ibrahim"
+      ],
+      "answer": "Sulayman",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate raconte l’histoire de Qarun et son immense richesse ?",
+      "options": [
+        "Al-Qasas",
+        "Al-Anbiya",
+        "Taha"
+      ],
+      "answer": "Al-Qasas",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel est le premier calife de l’islam ?",
+      "options": [
+        "Omar",
+        "Ali",
+        "Abu Bakr"
+      ],
+      "answer": "Abu Bakr",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate commence par le serment « Par ceux qui arrachent violemment » ?",
+      "options": [
+        "An-Nazi'at",
+        "Abasa",
+        "Al-Infitar"
+      ],
+      "answer": "An-Nazi'at",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a brisé les idoles de son peuple ?",
+      "options": [
+        "Ibrahim",
+        "Moussa",
+        "Haroun"
+      ],
+      "answer": "Ibrahim",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Dans quelle sourate Allah dit : « La prière préserve de la turpitude et du blâmable » ?",
+      "options": [
+        "Al-Ankabut",
+        "Ar-Rum",
+        "An-Nur"
+      ],
+      "answer": "Al-Ankabut",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate mentionne les abeilles et leurs bienfaits ?",
+      "options": [
+        "An-Nahl",
+        "Al-Anbiya",
+        "Ar-Ra'd"
+      ],
+      "answer": "An-Nahl",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a vécu dans la baleine pendant trois jours ?",
+      "options": [
+        "Younous",
+        "Zakariya",
+        "Idriss"
+      ],
+      "answer": "Younous",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate parle de la calomnie contre Aïcha رضي الله عنها ?",
+      "options": [
+        "An-Nur",
+        "Al-Ahzab",
+        "Al-Mumtahana"
+      ],
+      "answer": "An-Nur",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel compagnon était le scribe principal du Prophète ﷺ ?",
+      "options": [
+        "Mu'awiya",
+        "Zayd ibn Thabit",
+        "Sa'd ibn Abi Waqqas"
+      ],
+      "answer": "Zayd ibn Thabit",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate mentionne le voyage nocturne (Isra) ?",
+      "options": [
+        "Al-Isra",
+        "Al-Kahf",
+        "An-Najm"
+      ],
+      "answer": "Al-Isra",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate condamne l’enterrement des filles vivantes ?",
+      "options": [
+        "At-Takwir",
+        "Abasa",
+        "Al-Balad"
+      ],
+      "answer": "At-Takwir",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel ange est chargé de prendre les âmes ?",
+      "options": [
+        "Malak al-Mawt",
+        "Israfil",
+        "Ridwan"
+      ],
+      "answer": "Malak al-Mawt",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate parle longuement des hypocrites ?",
+      "options": [
+        "Al-Munafiqun",
+        "At-Tawbah",
+        "Al-Maida"
+      ],
+      "answer": "Al-Munafiqun",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a été jeté dans la mer Rouge avec son peuple poursuivi par Pharaon ?",
+      "options": [
+        "Moussa",
+        "Haroun",
+        "Shuayb"
+      ],
+      "answer": "Moussa",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate commence par : « Par le soleil et sa clarté » ?",
+      "options": [
+        "Ash-Shams",
+        "Al-Layl",
+        "Ad-Duha"
+      ],
+      "answer": "Ash-Shams",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète parlait plusieurs langues et jugeait avec sagesse ?",
+      "options": [
+        "Dawud",
+        "Sulayman",
+        "Ibrahim"
+      ],
+      "answer": "Dawud",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate a été surnommée « le cœur du Coran » ?",
+      "options": [
+        "Yasin",
+        "Ar-Rahman",
+        "Al-Fatiha"
+      ],
+      "answer": "Yasin",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a demandé à Allah : « Fais-moi voir comment Tu ressuscites les morts » ?",
+      "options": [
+        "Ibrahim",
+        "Moussa",
+        "Yusuf"
+      ],
+      "answer": "Ibrahim",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Dans quelle sourate Allah parle du lait produit entre le sang et les excréments ?",
+      "options": [
+        "An-Nahl",
+        "Al-Muminun",
+        "Ar-Rahman"
+      ],
+      "answer": "An-Nahl",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel compagnon était le premier enfant garçon à embrasser l’islam ?",
+      "options": [
+        "Ali ibn Abi Talib",
+        "Zubayr ibn al-Awwam",
+        "Abdullah ibn Abbas"
+      ],
+      "answer": "Ali ibn Abi Talib",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate commence par « Par les temps » ?",
+      "options": [
+        "Al-Asr",
+        "Al-Fajr"
+      ],
+      "answer": "Al-Asr",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète était gardien du temple avant d'être prophète ?",
+      "options": [
+        "Zakariya",
+        "Yunus",
+        "Ismail"
+      ],
+      "answer": "Zakariya",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate parle explicitement du hijab et de la pudeur ?",
+      "options": [
+        "An-Nur",
+        "Al-Ahzab",
+        "Al-Mujadilah"
+      ],
+      "answer": "An-Nur",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a eu le miracle de transformer son bâton en serpent ?",
+      "options": [
+        "Moussa",
+        "Ibrahim",
+        "Ishaq"
+      ],
+      "answer": "Moussa",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate mentionne les montagnes comme des « piquets » ?",
+      "options": [
+        "An-Naba",
+        "Al-Qaria",
+        "Al-Mursalat"
+      ],
+      "answer": "An-Naba",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel compagnon était connu pour sa voix magnifique dans la récitation du Coran ?",
+      "options": [
+        "Abdullah ibn Mas’ud",
+        "Bilal",
+        "Zaid ibn Thabit"
+      ],
+      "answer": "Abdullah ibn Mas’ud",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate mentionne les signes d’Allah dans le changement du jour et de la nuit ?",
+      "options": [
+        "Ali-Imran",
+        "Ar-Rum",
+        "Al-Anbiya"
+      ],
+      "answer": "Ar-Rum",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète était roi et juge, recevant des révélations sous forme de psaumes (Zabour) ?",
+      "options": [
+        "Dawud",
+        "Sulayman",
+        "Harun"
+      ],
+      "answer": "Dawud",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate mentionne le prêt consenti à Allah ?",
+      "options": [
+        "Al-Hadid",
+        "At-Taghabun"
+      ],
+      "answer": "Al-Hadid",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle femme est mentionnée comme modèle dans la sourate At-Tahrim ?",
+      "options": [
+        "Asiya",
+        "Maryam",
+        "Sara"
+      ],
+      "answer": "Asiya",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a vu ses fils comploter contre lui par jalousie ?",
+      "options": [
+        "Yusuf",
+        "Ismail",
+        "Moussa"
+      ],
+      "answer": "Yusuf",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate commence par « Par les vents dispersant » ?",
+      "options": [
+        "Adh-Dhariyat",
+        "An-Nazi'at"
+      ],
+      "answer": "Adh-Dhariyat",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel compagnon était le porteur de l’étendard à Badr ?",
+      "options": [
+        "Mus'ab ibn Umayr",
+        "Ali",
+        "Omar"
+      ],
+      "answer": "Mus'ab ibn Umayr",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate raconte l'histoire de Habil et Qabil (Caïn et Abel) ?",
+      "options": [
+        "Al-Maida",
+        "Al-Baqara"
+      ],
+      "answer": "Al-Maida",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a marché vers la terre promise mais n’a pas pu y entrer ?",
+      "options": [
+        "Moussa",
+        "Harun",
+        "Yusha"
+      ],
+      "answer": "Moussa",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate parle de la calomnie de la femme d’Al-Aziz ?",
+      "options": [
+        "Yusuf",
+        "An-Nisa"
+      ],
+      "answer": "Yusuf",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel compagnon était surnommé Al-Farouq (celui qui distingue le vrai du faux) ?",
+      "options": [
+        "Omar ibn al-Khattab",
+        "Ali",
+        "Zubair"
+      ],
+      "answer": "Omar ibn al-Khattab",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate parle de « l'âme apaisée » ?",
+      "options": [
+        "Al-Fajr",
+        "Ad-Duha"
+      ],
+      "answer": "Al-Fajr",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a été envoyé à Ninive ?",
+      "options": [
+        "Younous",
+        "Shuayb"
+      ],
+      "answer": "Younous",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate se termine par un grand rappel : « Adore ton Seigneur jusqu'à ce que te vienne la certitude » ?",
+      "options": [
+        "Al-Hijr",
+        "Al-Bayyina"
+      ],
+      "answer": "Al-Hijr",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a été sauvé du feu par Allah ?",
+      "options": [
+        "Ibrahim",
+        "Idris"
+      ],
+      "answer": "Ibrahim",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate commence par « Par le figuier et l’olivier » ?",
+      "options": [
+        "At-Tin",
+        "Al-Balad",
+        "Ad-Duha"
+      ],
+      "answer": "At-Tin",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Qui est la première martyre de l’islam ?",
+      "options": [
+        "Sumayyah bint Khayyat",
+        "Khadija",
+        "Aisha"
+      ],
+      "answer": "Sumayyah bint Khayyat",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate mentionne le chameau de Saleh عليه السلام ?",
+      "options": [
+        "Al-Qamar",
+        "Ash-Shams"
+      ],
+      "answer": "Ash-Shams",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète était réputé pour son incroyable sagesse et ses jugements équitables ?",
+      "options": [
+        "Sulayman",
+        "Dawud"
+      ],
+      "answer": "Sulayman",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate parle du destin (qadar) et de la puissance d’Allah ?",
+      "options": [
+        "Al-Qadr",
+        "Al-Qaria"
+      ],
+      "answer": "Al-Qadr",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel compagnon a été connu pour sa grande richesse et sa générosité ?",
+      "options": [
+        "Uthman ibn Affan",
+        "Ali",
+        "Talha"
+      ],
+      "answer": "Uthman ibn Affan",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate parle de l’histoire des « propriétaires du jardin » ?",
+      "options": [
+        "Al-Qalam",
+        "Al-Haqqa"
+      ],
+      "answer": "Al-Qalam",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Qui fut le premier homme à croire au Prophète ﷺ ?",
+      "options": [
+        "Abu Bakr",
+        "Ali",
+        "Zayd"
+      ],
+      "answer": "Abu Bakr",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate évoque la création de l’homme d’argile sonore ?",
+      "options": [
+        "Al-Hijr",
+        "Sad"
+      ],
+      "answer": "Al-Hijr",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a reçu l’ordre de se laver dans une rivière pour guérir ?",
+      "options": [
+        "Ayyub",
+        "Younous",
+        "Dawud"
+      ],
+      "answer": "Ayyub",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate dit que chaque âme goûtera la mort ?",
+      "options": [
+        "Ali-Imran",
+        "Al-Ankabut"
+      ],
+      "answer": "Ali-Imran",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a été envoyé au peuple de Thamud ?",
+      "options": [
+        "Saleh",
+        "Hud"
+      ],
+      "answer": "Saleh",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate mentionne la création de l’homme en 3 phases dans le ventre ?",
+      "options": [
+        "Az-Zumar",
+        "Al-Mu’minun"
+      ],
+      "answer": "Al-Mu’minun",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel compagnon était chargé de l’appel à la prière ?",
+      "options": [
+        "Bilal ibn Rabah",
+        "Abu Hurayra"
+      ],
+      "answer": "Bilal ibn Rabah",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate commence par « Par ceux qui sont rangés en rangs » ?",
+      "options": [
+        "As-Saffat",
+        "Az-Zariyat"
+      ],
+      "answer": "As-Saffat",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a reçu un livre appelé l’Injil ?",
+      "options": [
+        "Issa",
+        "Moussa"
+      ],
+      "answer": "Issa",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate parle de la femme qui plaida auprès du Prophète ﷺ pour son mari ?",
+      "options": [
+        "Al-Mujadilah",
+        "An-Nisa"
+      ],
+      "answer": "Al-Mujadilah",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a été ressuscité après 100 ans ?",
+      "options": [
+        "Uzayr",
+        "Idris"
+      ],
+      "answer": "Uzayr",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate raconte l’histoire de Dhul-Qarnayn ?",
+      "options": [
+        "Al-Kahf",
+        "Al-Anbiya"
+      ],
+      "answer": "Al-Kahf",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel compagnon a financé la moitié de l’armée lors de Tabuk ?",
+      "options": [
+        "Uthman",
+        "Omar"
+      ],
+      "answer": "Uthman",
+      "category": "Général",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quelle sourate parle du pacte pris sur les Prophètes ?",
+      "options": [
+        "Al-Ahzab",
+        "Al-Maida"
+      ],
+      "answer": "Al-Ahzab",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a demandé à Allah une descendance malgré son âge avancé ?",
+      "options": [
+        "Zakariya",
+        "Ibrahim"
+      ],
+      "answer": "Zakariya",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate parle de l’équité dans le poids et la mesure ?",
+      "options": [
+        "Al-Mutaffifin",
+        "Al-Maun"
+      ],
+      "answer": "Al-Mutaffifin",
+      "category": "Sourates",
+      "difficulty": "Moyen"
+    },
+    {
+      "question": "Quel prophète a été trahi par son peuple à plusieurs reprises mais est resté patient 950 ans ?",
+      "options": [
+        "Nouh",
+        "Hud"
+      ],
+      "answer": "Nouh",
+      "category": "Prophètes",
+      "difficulty": "Facile"
+    },
+    {
+      "question": "Quelle sourate commence par « Par le matin » ?",
+      "options": [
+        "Ad-Duha",
+        "Ash-Shams"
+      ],
+      "answer": "Ad-Duha",
+      "category": "Sourates",
+      "difficulty": "Moyen"
     }
   ]
 }
