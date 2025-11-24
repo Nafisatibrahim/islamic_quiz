@@ -1,0 +1,206 @@
+{
+  "quizzes": [
+    {
+      "question": "Quelle sourate est surnommée \"la Sourate du Monothéisme Pur\" ?",
+      "options": ["Al-Falaq", "Al-Ikhlas", "An-Nas", "Az-Zalzala"],
+      "answer": "Al-Ikhlas"
+    },
+    {
+      "question": "Quelle sourate évoque la naissance miraculeuse de Issa (Jésus) عليه السلام et la modestie de Maryam ?",
+      "options": ["Al-Qasas", "Al-Imran", "Maryam", "Al-Anbiya"],
+      "answer": "Maryam"
+    },
+    {
+      "question": "Quelle sourate raconte en détail l'histoire de Yusuf (Joseph) عليه السلام et est connue comme \"la plus belle des histoires\" ?",
+      "options": ["Al-Kahf", "Hud", "Yusuf", "Taha"],
+      "answer": "Yusuf"
+    },
+    {
+      "question": "La sourate Al-Kahf évoque quatre grandes épreuves. Laquelle n'en fait PAS partie ?",
+      "options": ["L'épreuve de la foi", "L'épreuve de la richesse", "L'épreuve de la connaissance", "L'épreuve de la prophétie"],
+      "answer": "L'épreuve de la prophétie"
+    },
+    {
+      "question": "Quelle sourate est considérée comme une protection contre le Dajjāl ?",
+      "options": ["Al-Mulk", "Al-Kahf", "Ar-Rahman", "Al-Waqi'a"],
+      "answer": "Al-Kahf"
+    },
+    {
+      "question": "Quel est le thème central de la sourate Ar-Rahman ?",
+      "options": ["Les miracles des prophètes", "La miséricorde d'Allah et Ses bienfaits", "Le châtiment des peuples passés", "Les signes de la fin des temps"],
+      "answer": "La miséricorde d'Allah et Ses bienfaits"
+    },
+    {
+      "question": "Quelle sourate parle de la création de l'être humain à partir d'un caillot ('alaq) ?",
+      "options": ["Al-Qadr", "Al-Alaq", "Al-Tin", "Al-Insan"],
+      "answer": "Al-Alaq"
+    },
+    {
+      "question": "Quelle sourate raconte l'histoire de Moussa عليه السلام face au Pharaon et le miracle du bâton ?",
+      "options": ["Taha", "Maryam", "Ibrahim", "Ash-Shu'ara"],
+      "answer": "Taha"
+    },
+    {
+      "question": "Quelle sourate évoque Dhul-Qarnayn et la construction de la barrière contre Gog et Magog ?",
+      "options": ["As-Saffat", "Al-Kahf", "Fussilat", "Al-Ahqaf"],
+      "answer": "Al-Kahf"
+    },
+    {
+      "question": "Quelle sourate commence par un serment sur le temps (wal-asr) ?",
+      "options": ["Al-Qaria", "Al-Asr", "Al-Fajr", "Al-Duha"],
+      "answer": "Al-Asr"
+    },
+    {
+      "question": "Quelle sourate met en avant les qualités de Al-Muttaqin (les pieux) avec 13 caractéristiques ?",
+      "options": ["Al-Baqarah", "Al-Imran", "Al-Nisa", "Al-Anfal"],
+      "answer": "Al-Baqarah"
+    },
+    {
+      "question": "Quelle sourate contient le verset du Trône (Ayat al-Kursi) ?",
+      "options": ["Al-Nisa", "Al-Baqarah", "Al-Imran", "Al-Tawbah"],
+      "answer": "Al-Baqarah"
+    },
+    {
+      "question": "Dans quelle sourate trouve-t-on l'histoire des Compagnons de l'Éléphant (Aṣḥāb al-Fīl) ?",
+      "options": ["Al-Fil", "Quraish", "Al-Masad", "Al-Tin"],
+      "answer": "Al-Fil"
+    },
+    {
+      "question": "Quelle sourate critique sévèrement l'accumulation excessive de richesses ?",
+      "options": ["At-Takathur", "Al-Fajr", "Al-Humaza", "Al-Maun"],
+      "answer": "Al-Humaza"
+    },
+    {
+      "question": "Quelle sourate parle de la grandeur du Jour de la Résurrection et commence par \"Al-Qaria, mal-qaria…\" ?",
+      "options": ["Al-Zalzala", "Al-Qaria", "Al-Takwir", "Al-Infitar"],
+      "answer": "Al-Qaria"
+    },
+    {
+      "question": "Quelle sourate décrit le pacte entre Allah et les enfants d'Israël concernant l'adoration exclusive ?",
+      "options": ["Al-Baqarah", "Al-Araf", "Al-Isra", "Al-Maida"],
+      "answer": "Al-Baqarah"
+    },
+    {
+      "question": "Dans quelle sourate trouve-t-on l'histoire de Luqmân donnant des conseils de sagesse à son fils ?",
+      "options": ["Al-Ahzab", "Luqman", "Al-Ahqaf", "Ash-Shams"],
+      "answer": "Luqman"
+    },
+    {
+      "question": "Quelle sourate évoque les signes d'Allah dans la nuit, la pluie et le vent ?",
+      "options": ["Al-Sajda", "Al-Rum", "Al-Hashr", "Al-Tariq"],
+      "answer": "Al-Rum"
+    },
+    {
+      "question": "Quelle sourate décrit en détail le Paradis et l'Enfer et protège contre le châtiment de la tombe ?",
+      "options": ["Ar-Rahman", "Al-Mulk", "Al-Insan", "Al-Ghashiya"],
+      "answer": "Al-Mulk"
+    },
+    {
+      "question": "Quelle sourate est dédiée entièrement aux relations familiales, à l'héritage et à la justice sociale ?",
+      "options": ["Al-Ahzab", "Al-Nisa", "Al-Talaq", "Al-Mumtahana"],
+      "answer": "Al-Nisa"
+    },
+
+    {
+      "question": "Qui est le dernier prophète envoyé par Allah ?",
+      "options": ["Moussa", "Issa", "Muhammad ﷺ", "Ibrahim"],
+      "answer": "Muhammad ﷺ"
+    },
+    {
+      "question": "Combien de piliers de l'islam y a-t-il ?",
+      "options": ["3", "5", "7", "10"],
+      "answer": "5"
+    },
+    {
+      "question": "Quel mois est considéré comme le mois du Coran ?",
+      "options": ["Muharram", "Ramadan", "Chaabane", "Rajab"],
+      "answer": "Ramadan"
+    },
+    {
+      "question": "Combien de rakāt contient la prière du fajr ?",
+      "options": ["4", "3", "2", "5"],
+      "answer": "2"
+    },
+    {
+      "question": "Quelle sourate est appelée \"la Mère du Livre\" ?",
+      "options": ["Al-Ikhlass", "Al-Falaq", "Al-Baqara", "Al-Fatiha"],
+      "answer": "Al-Fatiha"
+    },
+    {
+      "question": "Quel ange est chargé de la révélation ?",
+      "options": ["Mikâ'îl", "Israfil", "Jibrîl", "Malik"],
+      "answer": "Jibrîl"
+    },
+    {
+      "question": "Comment s'appelle la ville où le Prophète ﷺ a émigré ?",
+      "options": ["La Mecque", "Médine", "Jérusalem", "Taïf"],
+      "answer": "Médine"
+    },
+    {
+      "question": "Quel est le premier mot révélé du Coran ?",
+      "options": ["Lis ! (Iqra')", "Prie !", "Adore !", "Médite !"],
+      "answer": "Lis ! (Iqra')"
+    },
+    {
+      "question": "Quel prophète est célèbre pour sa grande patience ?",
+      "options": ["Soulayman", "Ayoub", "Younous", "Idriss"],
+      "answer": "Ayoub"
+    },
+    {
+      "question": "Quel pilier n'est obligatoire qu'une fois par an ?",
+      "options": ["Le jeûne", "La zakat", "La prière", "Le hajj"],
+      "answer": "La zakat"
+    },
+
+    {
+      "question": "Dans quelle sourate se trouve l'histoire des Gens de la Caverne (Ahl al-Kahf) ?",
+      "options": ["Al-Anbiya", "Al-Kahf", "Al-Qasas", "Al-Muminun"],
+      "answer": "Al-Kahf"
+    },
+    {
+      "question": "Quelle sourate commence par \"Tabaraka\" et parle de la création de la mort et de la vie comme test ?",
+      "options": ["Al-Waqi'a", "Al-Mulk", "Al-Qalam", "Al-Haqqa"],
+      "answer": "Al-Mulk"
+    },
+    {
+      "question": "Quel prophète a été englouti par un grand poisson ?",
+      "options": ["Younous", "Idriss", "Ayyub", "Ibrahim"],
+      "answer": "Younous"
+    },
+    {
+      "question": "Quelle sourate contient le verset : \"Levez-vous pour prier la nuit, sauf une petite partie\" ?",
+      "options": ["Al-Muddathir", "Al-Muzzammil", "Al-Qiyama", "Al-Inshirah"],
+      "answer": "Al-Muzzammil"
+    },
+    {
+      "question": "Quel compagnon a compilé le Coran sous forme de livre (Mushaf) sous le califat d'Abu Bakr ?",
+      "options": ["Omar ibn al-Khattab", "Ali ibn Abi Talib", "Zayd ibn Thabit", "Uthman ibn Affan"],
+      "answer": "Zayd ibn Thabit"
+    },
+    {
+      "question": "Quelle sourate raconte la reine de Saba et le prophète Soulayman عليه السلام ?",
+      "options": ["An-Naml", "Al-Anbiya", "Sad", "Yasin"],
+      "answer": "An-Naml"
+    },
+    {
+      "question": "Dans quelle sourate trouve-t-on l'histoire du Prophète Ayyoub عليه السلام et sa patience ?",
+      "options": ["Al-Anbiya", "Maryam", "Al-Qalam", "Al-Fajr"],
+      "answer": "Al-Anbiya"
+    },
+    {
+      "question": "Quelle sourate décrit les signes de la fin des temps tels que l'éclatement des étoiles ?",
+      "options": ["Al-Infitar", "Al-Kahf", "Al-Qaria", "Al-Maun"],
+      "answer": "Al-Infitar"
+    },
+    {
+      "question": "Quel prophète a construit la Kaaba avec son fils ?",
+      "options": ["Moussa", "Ibrahim", "Nouh", "Idriss"],
+      "answer": "Ibrahim"
+    },
+    {
+      "question": "Quelle sourate mentionne le miracle du vent envoyé à Sulayman (Salomon) عليه السلام ?",
+      "options": ["Saba", "An-Naml", "Yunus", "Hud"],
+      "answer": "Saba"
+    }
+  ]
+}
